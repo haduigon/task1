@@ -1,0 +1,21 @@
+div#header{
+    border:1px solid grey;
+    width: 98%;
+    height: 150px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+table{
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 300px;
+
+}
+form{
+
+    margin-top: 5%;
+    float: left;
+}
+
+
